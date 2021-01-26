@@ -1,9 +1,12 @@
 If you want to go a little more in-depth with JAR picking, you've come to the right place.
-Most popular Spigot/Bukkit JARs are :  1. PaperSpigot
-                                       2. Spigot
-                                       3. CraftBukkit (rarely used)             <--- These support using Spigot/Bukkit plugins, don't try mods with them (won't work)
-                                       4. Purpur
-                                       5. Tuinity
+
+Most popular Spigot/Bukkit JARs are :	
+>>1. PaperSpigot
+>>2. Spigot
+>>3. CraftBukkit (rarely used)  
+>>4. Purpur
+>>5. Tuinity
+                                   
 
 1. PaperSpigot - Most popular JAR for Spigot/Bukkit, quite fast and stable, they roll out small patches at least every 2 days or so, good choice if you're just
                  starting with your MC server and don't have much past experience because it's fast and simple.
